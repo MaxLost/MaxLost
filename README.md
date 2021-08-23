@@ -1,6 +1,6 @@
 - Hi, I’m Max
 - SPbU student, studying for a bachelor of Applied mathematics and CS
-- I’m currently learning Python / C++
+- I’m currently learning C++
 - How to reach me:
 Telegram - @maxlost
 
