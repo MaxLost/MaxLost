@@ -4,7 +4,7 @@ SPbSU second year student, studying for a bachelor of Applied mathematics and CS
 
 
 <b>Tech stack:</b>
-  - Java - current main language, used for object oriented programming course
+  - Java - main language
   - C++ - used for university algoriths and data structures course and simple projects (Only STL)
   - Python - used for machine learning study projects at university
 
