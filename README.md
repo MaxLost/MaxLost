@@ -1,6 +1,6 @@
 <b>Hi, I’m Max</b>
 
-SPbSU second year student, studying for a bachelor of Applied mathematics and CS
+SPbU second year student, studying for a bachelor of Applied mathematics and CS
 
 
 <b>Tech stack:</b>
