@@ -11,4 +11,4 @@ SPbU second year student, studying for a bachelor of Applied mathematics and CS
 
 <b>How to reach me:</b>
 
-Telegram (@maxlost) or email (tisheninov.maxim@gmail.com)
+Telegram ([@maxlost](https://t.me/max_lost)) or email (tisheninov.maxim@gmail.com)
